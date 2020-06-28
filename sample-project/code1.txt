@@ -2,3 +2,5 @@ dfdf
 d
 d
 fd
+checking for reset command
+
