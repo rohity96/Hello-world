@@ -6,4 +6,3 @@ checking for reset command
 
 Demo to push in remote repo
 
-Git stash demos
